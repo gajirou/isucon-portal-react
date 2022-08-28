@@ -1,0 +1,14 @@
+$width:  90%;
+.chartscore {
+    width:  $width;
+    margin: auto;
+}
+.lastscore {
+    width:  $width;
+    margin: auto;
+}
+.time {
+    height: 40pt;
+    display: flex;
+    align-items: flex-end;
+}

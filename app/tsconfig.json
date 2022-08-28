@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    /*LanguageandEnvironment*/
+    "target":"ES5",
+    "lib":["ES2021","DOM","DOM.Iterable"],
+    "jsx":"react",
+    "downlevelIteration": true,
+
+    /*Modules*/
+    "module":"ES2015",
+    "moduleResolution":"node",
+
+    /*Emit*/
+    "sourceMap":true,
+
+    /*InteropConstraints*/
+    "esModuleInterop":true,
+    "forceConsistentCasingInFileNames":true,
+
+    /*TypeChecking*/
+    "strict":true,
+    "skipLibCheck":true
+  }
+}
